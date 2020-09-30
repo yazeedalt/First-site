@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    background-color: rgb(48, 47, 47) !important;
+    font-family: 'Montserrat', sans-serif !important;
+    height: 100%;
+}
+
+.jumbotron.text-center {
+    color: ghostwhite;
+    background-image: url(./pictures/Laptop\ Picture\ 3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    font-weight: 200;
+}
+
+.navbar-brand span {
+    font-weight: 800;
+}
+
+.row {
+    color: ghostwhite;
+}
+
+.col-sm-4 {
+    font-size: 25px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+    color: ghostwhite;
+}
